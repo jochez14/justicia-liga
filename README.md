@@ -12,3 +12,16 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado desde GitHub...
 
 ## Estos cambios son nuevos
+
+# h1
+## h2
+### h3
+
+* A
+* B
+  *B1
+
+  *ESTO* ES UN _TEXTO_
+
+
+![GitHub logo](https://revistabyte.es/wp-content/uploads/2018/06/github-octocat.jpg)
